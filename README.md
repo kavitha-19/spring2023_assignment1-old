@@ -1,1 +1,3 @@
-# spring2023_assignment1
+Kavitha Padala 
+
+#### created "assignment" database and table "git_assignment"
