@@ -4,4 +4,4 @@ Kavitha Padala
 
 MD Ajijul Islam
 
-### Added new column named status which is CHAR(1) datatype
+### Added new column named status which is CHAR(1) datatype also edit README.md
